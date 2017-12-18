@@ -1,0 +1,74 @@
+h1.title {
+  font-family: 'optima',serif;
+  margin-left: 550px;
+  color: rgb(237, 221, 11);
+}
+#keyboard {
+  margin-left: 400px;
+  text-align: center;
+  width: 600px;
+  height: 90px;
+  /*background-color: rgb(12, 13, 11);*/
+  /*border: 100px;*/
+  margin-top: 100px;
+  /*padding-top: 10px;*/
+}
+
+button{
+  width: 40px;
+  height: 40px;
+  font-size: 30;
+  font-family: "optima",serif;
+  background-color: rgb(7, 3, 19);
+  color:rgb(139, 204, 215);
+}
+#New-Game {
+  color: black;
+  background-color: rgb(224, 243, 244);
+  align:left;
+  width: 100px;
+  height:30px;
+  font-size: 15;
+  margin: 0px;
+  /*box-shadow: 9px 11px 10px rgb(223, 238, 97);*/
+}
+
+
+#dashes {
+  font-size: 50px;
+  text-align: center;
+  color: rgb(236, 236, 236);
+  display: inline-block;
+  margin-left: 450;
+}
+
+body {
+  background-image:url('back.jpg');
+}
+
+.title {
+  font-size: 50px;
+  color: rgb(241, 232, 14);
+}
+
+#chances {
+  font-size: 30px;
+  text-align: left;
+  color: rgb(229, 224, 240);
+  margin: 15px;
+}
+
+h3 {
+  font-family: 'optima',serif;
+  font-size: 35px;
+  text-align: left;
+  color: rgb(229, 224, 240);
+  margin: 0px;
+}
+#looses {
+  font-family: 'optima',serif;
+  font-size: 30px;
+  text-align: left;
+  color: rgb(229, 224, 240);
+  margin: 0px;
+}
